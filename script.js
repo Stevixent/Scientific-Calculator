@@ -59,7 +59,7 @@
 
  // Function for Square Root
  function sqrt(form) {
-    form.result.value = Math.sqrt(form.result.value);
+    form.result.value = Math.sqrt(form.result.value,2);
  }
 
 
